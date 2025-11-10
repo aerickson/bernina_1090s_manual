@@ -7,3 +7,7 @@ A [ScanTailor](https://scantailor.org/) project to fix up the [scanned manual](h
 ## Output
 
 Download the fixed up manual on the [releases page](https://github.com/aerickson/bernina_1090s_manual/releases).
+
+## Notes on using this project
+
+If you'd like to hack on this, make sure to edit the paths (there are 2 spots) in the ScanTailor file.
