@@ -11,3 +11,7 @@ Download the fixed up manual on the [releases page](https://github.com/aerickson
 ## Notes on using this project
 
 If you'd like to hack on this, make sure to edit the paths (there are 2 spots) in the ScanTailor file.
+
+### Getting ScanTailor on Mac
+
+Use MacPorts.
