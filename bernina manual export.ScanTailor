@@ -1,7 +1,7 @@
-<project layoutDirection="LTR" outputDirectory="/Users/aje/Desktop/bernina manual export/out">
+<project layoutDirection="LTR" outputDirectory="/Users/aje/Desktop/bernina_1090s_manual/out">
   <scantailor app="Universal" ver="0.2.9"/>
   <directories>
-    <directory id="1" path="/Users/aje/Desktop/bernina manual export"/>
+    <directory id="1" path="/Users/aje/Desktop/bernina_1090s_manual"/>
   </directories>
   <files>
     <file name="bernina_manual_export-01.png" id="2" dirId="1"/>
